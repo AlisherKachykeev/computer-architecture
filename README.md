@@ -2,6 +2,8 @@
 * This is a simple Notepad Application, which was made in Visiual Studio concretely in Windows form.
 ![main](screenshots/main.png)
 
+# GitHub link
+https://github.com/AlisherKachykeev/computer-architecture
 ## Team
 * Alisher Kachykeev com19
 
